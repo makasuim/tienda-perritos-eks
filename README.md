@@ -1,6 +1,6 @@
 # Tienda de Perritos - Pipeline CI/CD en AWS EKS 🐾
 
-[cite_start]Este es nuestro repositorio para el encargo de **Innovatech Chile**[cite: 580]. Aquí está todo el código y la configuración que armamos para que la aplicación (Frontend, Backend y Base de Datos) se despliegue de forma automatizada y escalable en la nube.
+Este es nuestro repositorio para el encargo de **Innovatech Chile**. Aquí está todo el código y la configuración que armamos para que la aplicación (Frontend, Backend y Base de Datos) se despliegue de forma automatizada y escalable en la nube.
 
 ## Tecnologías y Arquitectura
 * **Orquestación:** Amazon EKS.
